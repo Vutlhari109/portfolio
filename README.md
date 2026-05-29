@@ -35,7 +35,7 @@ I am eager to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst*
 
 ---
 
-## 🧰 Tools
+## \🧰 Tools
 
 ### 🌐 Network
 <div>
