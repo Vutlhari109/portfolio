@@ -1,5 +1,5 @@
-# 👋 Hello, I'm Vutlhari  
-Welcome to my Cybersecurity & DFIR Portfolio  
+# 👋 Hello, I'm Vutlhari  Mathebula
+Welcome to my Security Operations Center Analyst portfolio
 
 <a href="https://linkedin.com/in/vutlhari2025" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -11,14 +11,15 @@ Welcome to my Cybersecurity & DFIR Portfolio
 ---
 
 ## 🔎 Introduction
-I am a recent graduate with a strong interest in **Digital Forensics & Incident Response (DFIR)** and a dedication to solving complex cybersecurity problems.  
-My current focus is on **SOC operations, network forensics, and threat investigation**.  
+I am an aspiring SOC Analyst who's self driven , dedicated , motivated to grow and be pationate about Cybersecurity.
+My current focus is building hands-on projects that emphasize and demonstrate my skills in blue teaming or the defensive side of cybersecurity. 
+I have learnt and built essential defensive skills with projects that include SIEM, IDS/IPS, Automated Tools with scripting, firewalls and more
 
 ---
 
 ## 🎯 Objective
-My journey in DFIR has fueled my passion for cybersecurity.  
-I am eager to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst** or **Digital Forensics Specialist**, contributing to proactive defense, detection, and investigation of cyber threats.  
+My journey in Defensive Security has fueled my passion for cybersecurity.  
+I am eager to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst** or any **Defensive Role**, contributing to proactive defense, detection, investigation of cyber threats and implementing defensive knowlege and tools based on continous threat hunting and intelligence.  
 
 ---
 
