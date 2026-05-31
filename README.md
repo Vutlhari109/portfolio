@@ -27,10 +27,10 @@ I am eager to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst*
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Log Analysis & Threat Intelligence            | [Detection Lab](https://github.com/Vutlhari109/log_analysis) |
-| Network Traffic Monitoring & Attack Detection | [Network Forensics Lab](https://github.com/Vutlhari109/network_forensics) |
-| Open Source Intelligence (OSINT)              | [OSINT Investigations](https://github.com/Vutlhari109/OSINT_investigations) |
-| File Metadata Analysis (Exiftool)             | [Exiftool Analysis](https://github.com/Vutlhari109/exiftool_analysis) |
+| Log Analysis, Triage and Investigtions        | [SIEM Lab](https://github.com/Vutlhari109/wazuh-siem-project) |
+| Firewall Configuration | [PfSense Firewall Lab](https://github.com/Vutlhari109/network_forensics) |
+| IDS/IPS            | [Intrusion Detection and Prevention lab](https://github.com/Vutlhari109/ids-ips-project)|
+| KQL     | [KQL Log analysis lab](https://github.com/Vutlhari109/kc7_kql_scenario_investigations) |
 | Scripting & Automation for Incident Response  | [Automated IR Tools](https://github.com/Vutlhari109/automated_incident_response_tools) |
 
 ---
