@@ -11,7 +11,7 @@ Welcome to my Security Operations Center Analyst portfolio
 ---
 
 ## 🔎 Introduction
-I am an aspiring SOC Analyst who's self driven , dedicated , motivated to grow and be pationate about Cybersecurity.
+I am an Entry-Level SOC Analyst who's self driven , dedicated , motivated to grow and be pationate about Cybersecurity.
 My current focus is building hands-on projects that emphasize and demonstrate my skills in blue teaming or the defensive side of cybersecurity. 
 I have learnt and built essential defensive skills with projects that include SIEM, IDS/IPS, Automated Tools with scripting, firewalls and more
 
